@@ -39,7 +39,7 @@ If you want to check out the Power BI dashboards yourself, here's how you can do
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/vaishnavisamboji/US-Honey-Production.git
+   git clone https://github.com/vaishnavisamboji/US-Honey-Production-Data-Visualization.git
 2. **Download Power BI Desktop: If you don’t have it yet, grab it from Power BI Desktop**.
 3. **Open the Power BI file**:
    - Look for the `.pbix` file in the repository and open it with **Power BI Desktop**.
