@@ -17,12 +17,12 @@ In this project, we dive into U.S. honey production trends from 1995 to 2021 usi
 
 ### Key Insights
 1. **Honey Prices Are Skyrocketing**: Since 1995, the price of honey has tripled, showing that demand is going up. Even after accounting for inflation, prices have increased by 87%.
-2. **Production Is Slowing Down**: Despite rising prices, honey production and colony yields are actually decreasing, which might be a sign of supply issues.
+2. **Production Is Slowing Down**: Despite rising prices, honey production and colony yields are decreasing, which might be a sign of supply issues.
 3. **Some States Are Better Than Others**: States like North Dakota and South Dakota have produced a ton of honey over the years, while places like Oklahoma have remained low producers.
 4. **Best States for Honey Farmers**: We created a new metric called "Average Monetary Yield from One Colony." It combines honey yield and price to find the best states for honey production. Spoiler: Virginia is a great spot for honey farming!
 
 ### Visualizations and Dashboards
-With **Power BI**, we built some really helpful dashboards to show:
+With **Power BI**, we built some helpful dashboards to show:
 - **Overall Trends**: A look at how prices, production, and honey stocks have changed nationwide.
 - **State-Level Trends**: A breakdown of how each state has performed in honey production and yield over time.
 - **Prescriptive Analysis**: A dashboard that shows the best states to maximize honey farming profits based on our new metric.
@@ -48,9 +48,3 @@ If you want to check out the Power BI dashboards yourself, here's how you can do
 4. **Play around with the dashboards**:
    - Use the filters to explore trends by state, year, and different production metrics.
    - Check out the prescriptive analysis to see the best states for honey farming.
-### What’s in the Repository
-
-- **USDA_Honey_Production.csv**: The raw dataset we used for analysis.
-- **US_Honey_Production_Analysis.pbix**: The Power BI file with all the dashboards and visualizations.
-- **Presentation.pdf**: A project presentation that summarizes the key findings and insights.
-- **README.md**: This readme file to guide you through the project.
